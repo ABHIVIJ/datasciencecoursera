@@ -1,6 +1,3 @@
-# test-repo
-As part of Data Scientist's Toolbox course
+# datasciencecoursera
+As part of Data Scientist's Toolbox course in Coursera
 
-###H3
-*test1
-*test2
